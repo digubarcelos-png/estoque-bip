@@ -1,0 +1,46 @@
+{
+  "unique_locations": 39297,
+  "sources": [
+    {
+      "file": "Perfil_do_local_NTW.xlsx",
+      "rows": 1452,
+      "unique": 1452,
+      "sheets": [
+        {
+          "sheet": "Sheet1",
+          "rows_with_location": 1452,
+          "blank_locations": 234
+        }
+      ]
+    },
+    {
+      "file": "Local_Suprimento.xlsx",
+      "rows": 28378,
+      "unique": 28361,
+      "sheets": [
+        {
+          "sheet": "Sheet1",
+          "rows_with_location": 27340,
+          "blank_locations": 1
+        },
+        {
+          "sheet": "Planilha1",
+          "rows_with_location": 1038,
+          "blank_locations": 0
+        }
+      ]
+    },
+    {
+      "file": "Perfil_do_Local_Flow.xlsx",
+      "rows": 38967,
+      "unique": 38954,
+      "sheets": [
+        {
+          "sheet": "Sheet1",
+          "rows_with_location": 38967,
+          "blank_locations": 2
+        }
+      ]
+    }
+  ]
+}

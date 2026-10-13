@@ -1,0 +1,287 @@
+{
+  "source": "U.M - Diário - base - flow (2).xlsx",
+  "factor_column": "Fator Conv - PC",
+  "products": 86768,
+  "valid_alternate_codes": 86725,
+  "issues": [
+    {
+      "item": "883524.000",
+      "unit": "PL",
+      "reason": "Fatores divergentes",
+      "values": [
+        243,
+        16
+      ]
+    },
+    {
+      "row": 9579,
+      "item": "86000.000",
+      "unit": "CX",
+      "factor": 0.9827687,
+      "reason": "Fator inválido ou não inteiro"
+    },
+    {
+      "row": 9580,
+      "item": "86000.000",
+      "unit": "PL",
+      "factor": 23.5864488,
+      "reason": "Fator inválido ou não inteiro"
+    },
+    {
+      "row": 50270,
+      "item": "879896.000",
+      "unit": "PL",
+      "factor": 0,
+      "reason": "Fator inválido ou não inteiro"
+    },
+    {
+      "row": 76758,
+      "item": "21077600314",
+      "unit": "CX",
+      "factor": 0,
+      "reason": "Fator inválido ou não inteiro"
+    },
+    {
+      "row": 76762,
+      "item": "21077600316",
+      "unit": "CX",
+      "factor": 0,
+      "reason": "Fator inválido ou não inteiro"
+    },
+    {
+      "row": 88543,
+      "item": "21023030029",
+      "unit": "CX",
+      "factor": 0,
+      "reason": "Fator inválido ou não inteiro"
+    },
+    {
+      "row": 88544,
+      "item": "21023030029",
+      "unit": "PL",
+      "factor": 0,
+      "reason": "Fator inválido ou não inteiro"
+    },
+    {
+      "row": 90100,
+      "item": "831702.000",
+      "unit": "PL",
+      "factor": 0,
+      "reason": "Fator inválido ou não inteiro"
+    },
+    {
+      "row": 91155,
+      "item": "849505.000",
+      "unit": "PL",
+      "factor": 0,
+      "reason": "Fator inválido ou não inteiro"
+    },
+    {
+      "row": 124971,
+      "item": "858583.000",
+      "unit": "PL",
+      "factor": 0,
+      "reason": "Fator inválido ou não inteiro"
+    },
+    {
+      "row": 130738,
+      "item": "29092210014",
+      "unit": "CX",
+      "factor": 0,
+      "reason": "Fator inválido ou não inteiro"
+    },
+    {
+      "row": 130745,
+      "item": "29092210015",
+      "unit": "CX",
+      "factor": 0,
+      "reason": "Fator inválido ou não inteiro"
+    },
+    {
+      "row": 130885,
+      "item": "21092210031",
+      "unit": "CX",
+      "factor": 0,
+      "reason": "Fator inválido ou não inteiro"
+    },
+    {
+      "row": 130887,
+      "item": "21092210032",
+      "unit": "CX",
+      "factor": 0,
+      "reason": "Fator inválido ou não inteiro"
+    },
+    {
+      "alias": "B-33020",
+      "reason": "Código alternativo pertence a mais de um produto",
+      "items": [
+        "21014260022",
+        "31001959012"
+      ]
+    },
+    {
+      "alias": "3121.000",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "2761.000",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "3359.000",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "84742.000",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10112659",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10112687",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113045",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10112930",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10106612",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10114540",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "800842.000",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "891992.000",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "11127116",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "F-11127116",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10111649",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113116",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113274",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113276",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10112235",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113212",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113214",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113215",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113181",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113249",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113250",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113248",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113180",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113277",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113278",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113275",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113115",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113114",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10112719",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113110",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113111",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113530",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10113529",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "805129.000",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "21076810031",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "833678.000",
+      "reason": "Colisão com código principal"
+    },
+    {
+      "alias": "10188676",
+      "reason": "Colisão com código principal"
+    }
+  ]
+}
