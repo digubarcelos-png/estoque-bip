@@ -2,6 +2,13 @@
 
 Aplicativo nativo de contagem de estoque, Android 8.0 ou superior.
 
+## Novidades da versão 1.7
+
+- Menu suspenso no canto superior esquerdo, fixo durante a rolagem: Bipagem, Contagem realizada e Exportar relatório.
+- Histórico e exportação em páginas próprias, acessíveis pelo menu.
+- Botão Editar em cada registro. A edição abre o formulário com os dados existentes e retorna à lista ao salvar.
+- A data original da contagem é mantida; a alteração recebe sua própria data.
+
 ## Novidades da versão 1.6
 
 - Tabela de conversão por produto incluída, usando a coluna Fator Conv - PC tanto para CX quanto para PL.
